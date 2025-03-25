@@ -9,21 +9,21 @@ The dataset is divided into two main files:
 - fraudTest.csv: Testing dataset containing labeled transactional data.
 
 # Key Features:
-merchant: Merchant name
-category: Transaction category
-amount: Transaction amount
-cc_num: Credit card number
-first, last: Cardholder's first and last name
-gender: Cardholder's gender
-street, city, state, zip: Cardholder's address
-lat, long: Cardholder's latitude and longitude
-city_pop: Population of the city
-job: Cardholder's job
-dob: Cardholder's date of birth
-trans_num: Transaction number
-unix_time: Transaction time in Unix format
-merch_lat, merch_long: Merchant's latitude and longitude
-is_fraud: Label indicating if the transaction is fraudulent (1) or not (0)
+- merchant: Merchant name
+- category: Transaction category
+- amount: Transaction amount
+- cc_num: Credit card number
+- first, last: Cardholder's first and last name
+- gender: Cardholder's gender
+- street, city, state, zip: Cardholder's address
+- lat, long: Cardholder's latitude and longitude
+- city_pop: Population of the city
+- job: Cardholder's job
+- dob: Cardholder's date of birth
+- trans_num: Transaction number
+- unix_time: Transaction time in Unix format
+- merch_lat, merch_long: Merchant's latitude and longitude
+- is_fraud: Label indicating if the transaction is fraudulent (1) or not (0)
 
 # Steps to reproduce
 1. Import Libraries: The project begins by importing essential libraries for data manipulation, visualization, and machine learning.
