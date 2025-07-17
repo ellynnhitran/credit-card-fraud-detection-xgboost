@@ -5,8 +5,9 @@ This project aims to develop a robust and accurate credit card fraud detection s
 
 # Dataset
 The dataset is divided into two main files:
-- fraudTrain.csv: Training dataset containing labeled transactional data.
-- fraudTest.csv: Testing dataset containing labeled transactional data.
+- **Training Data:** [fraudTrain3.csv](https://drive.google.com/file/d/1fr54Agfvjh_Y2urDL7UhnQ1QMGFrYdig/view?usp=sharing)
+- **Testing Data:** [fraudTest3.csv](https://drive.google.com/file/d/1U8VDFneDtaFhN8IrMD_ukC9Ferp0IfDa/view?usp=sharing)
+
 
 # Key Features:
 - merchant: Merchant name
