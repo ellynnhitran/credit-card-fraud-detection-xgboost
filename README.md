@@ -1,9 +1,10 @@
 # credit-card-fraud-detection-xgboost
 
 # Project Overview
-This project aims to develop a robust and accurate credit card fraud detection system using XGBoost. The dataset used in this project contains transactional data, with features that describe the transactions and labels indicating whether a transaction is fraudulent.
+This project aims to develop a robust and accurate credit card fraud detection system using XGBoost. The dataset used in this project contains transactional data, with features that describe the transactions and labels indicating whether a transaction is fraudulent. 
 
 # Dataset
+The Credit Card Transactions Fraud Detection Dataset is from Kaggle Challenge: https://www.kaggle.com/datasets/kartik2112/fraud-detection?datasetId=817870&sortBy=voteCount
 The dataset is divided into two main files:
 - **Training Data:** [fraudTrain3.csv](https://drive.google.com/file/d/1fr54Agfvjh_Y2urDL7UhnQ1QMGFrYdig/view?usp=sharing)
 - **Testing Data:** [fraudTest3.csv](https://drive.google.com/file/d/1U8VDFneDtaFhN8IrMD_ukC9Ferp0IfDa/view?usp=sharing)
